@@ -12,9 +12,10 @@ This project demonstrates a universal LED strip controller that works independen
 
 ## Files
 - `hardware/LED-strip-schematic.pdf` — printable schematic  
-- `hardware/Gerber_Transistor_Circuit.zip` — Gerber files for fabrication  
-- `firmware/` — source code and build instructions  
-- `docs/` — project page (GitHub Pages)
+- `hardware/Gerber_Transistor_Circuit.zip` — Gerber file for fabrication  
+- `firmware/src.md` — source code
+- `firmware/Get_HEX_Codes.md` — test to find out HEX-codes of remote control
+- `docs/` — pictures 
 
 ## License
 Firmware: MIT  
